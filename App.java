@@ -29,4 +29,6 @@ public class App {
 
 }
 
-//hola mon
+<<<<<<< .mine
+//adeu mon=======
+//hola mon>>>>>>> .r6
